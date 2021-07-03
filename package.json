@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LaurenDImas/apprestapi.git"
+    "url": "git+https://github.com/LaurenDImas/restapi.git"
   },
   "keywords": [
     "rest",
@@ -18,9 +18,9 @@
   "author": "lauren",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/LaurenDImas/apprestapi/issues"
+    "url": "https://github.com/LaurenDImas/restapi/issues"
   },
-  "homepage": "https://github.com/LaurenDImas/apprestapi#readme",
+  "homepage": "https://github.com/LaurenDImas/restapi#readme",
   "dependencies": {
     "body-parser": "^1.19.0",
     "express": "^4.17.1",
